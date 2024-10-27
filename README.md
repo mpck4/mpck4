@@ -1,5 +1,5 @@
 ## TryHackMe Stats
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3386064)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mpck4.png)
 
 
 <!--
