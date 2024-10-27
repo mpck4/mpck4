@@ -1,4 +1,6 @@
-## Hi there 👋
+## TryHackMe Stats
+![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3386064" style='border:none;'></iframe>)
+
 
 <!--
 **mpck4/mpck4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
