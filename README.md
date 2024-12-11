@@ -1,4 +1,4 @@
-## Aspiring Red Teamer 
+## 
 
 ## TryHackMe Stats
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mpck4.png)
