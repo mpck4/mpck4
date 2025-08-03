@@ -1,7 +1,7 @@
 ## yo
 
-<!-- ## TryHackMe Stats
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mpck4.png) -->
+ ## TryHackMe Stats
+[![tryhackme stats](https://raw.githubusercontent.com/mpck4/mpck4/master/assets/thm_propic.png)][tryhackme]
 
 
 <!--
