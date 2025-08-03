@@ -1,4 +1,7 @@
 ## yo
 ---
+![TryHackMe Badge]([https://tryhackme.com/badge/image/3386064](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3386064))
+
+
 
 ![tryhackme stats](https://raw.githubusercontent.com/mpck4/mpck4/master/assets/thm_propic.png)
