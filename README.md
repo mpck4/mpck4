@@ -1,4 +1,4 @@
 ## yo
 ---
 
-![tryhackme stats](https://raw.githubusercontent.com/mpck4/mpck4/master/assets/thm_propic.png)
+#![tryhackme stats](https://raw.githubusercontent.com/mpck4/mpck4/master/assets/thm_propic.png)
