@@ -1,7 +1,6 @@
 ## yo
 ---
 
-![tryhackme stats](https://raw.githubusercontent.com/mpck4/mpck4/master/assets/thm_propic.png)
+## Cybersecurity @ Northeastern 2029
 
-# edited for cs1200
-Cybersecurity @ Northeastern 2029
+![tryhackme stats](https://raw.githubusercontent.com/mpck4/mpck4/master/assets/thm_propic.png)
