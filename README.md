@@ -14,7 +14,7 @@ $ cat ~/.focus
 #### currently
 
 - climbing [tryhackme](https://tryhackme.com/p/mpck4) — top 1% globally
-- logging [honAI](https://github.com/mpck4/HonAI) - ssh honeypot w/ ai triage
+- logging [honAI](https://github.com/mpck4/HonAI) — ssh honeypot w/ ai triage
 - tracking [hungryhusky](https://hungryhusky.vercel.app/) — dining dollar tracker for NEU
 - bloging [mpck4.github.io](https://mpck4.github.io)
 - other stuff
