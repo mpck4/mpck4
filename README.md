@@ -31,3 +31,5 @@ $ cat ~/.focus
 ---
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mpck4)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mpck4.png)](https://tryhackme.com/p/mpck4)
