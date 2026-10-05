@@ -19,6 +19,8 @@ $ cat ~/.focus
 - portfolio [charliekruger.dev](https://charliekruger.dev)
 - other stuff
 
+[![mpck4's GitHub stats](https://github-stats-extended.vercel.app/api?username=mpck4)](https://github.com/stats-organization/github-stats-extended)
+
 #### tools
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
