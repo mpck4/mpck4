@@ -20,7 +20,7 @@ $ cat ~/.focus
 - other stuff
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mpck4&layout=compact&theme=dark_github)
-
+*excluding private repos*
 #### tools
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
