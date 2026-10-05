@@ -12,7 +12,7 @@ $ cat ~/.focus
 - currently learning more about AD exploitation
 ```
 
-## Find more about my projects at my portfolio: [charliekruger.dev](https://charliekruger.dev)
+## Find more about my projects and CTF writeups at my portfolio: [charliekruger.dev](https://charliekruger.dev)
 
 #### currently up to...
 
