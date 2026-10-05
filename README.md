@@ -13,6 +13,8 @@ $ cat ~/.focus
 ```
 ---
 
+## Find more about my projects at my portfolio: [charliekruger.dev](https://charliekruger.dev)
+
 #### currently up to...
 
 - climbing [tryhackme](https://tryhackme.com/p/mpck4) — ranked top ~12K world, ~1500 USA
