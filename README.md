@@ -21,7 +21,7 @@ $ cat ~/.focus
 - and so on
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mpck4&layout=compact&theme=dark_github)\
-*<sub>(excluding private repos)</sub>*
+*<sub>(excluding private/academic repos)</sub>*
 
 #### tools
 
