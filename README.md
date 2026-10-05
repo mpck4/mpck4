@@ -19,7 +19,7 @@ $ cat ~/.focus
 - portfolio [charliekruger.dev](https://charliekruger.dev)
 - other stuff
 
-[![mpck4's GitHub stats](https://github-stats-extended.vercel.app/api?username=mpck4)](https://github.com/stats-organization/github-stats-extended)
+[![mpck4's GitHub stats]([https://github-stats-extended.vercel.app/api?username=mpck4](https://github-stats-extended.vercel.app/api/top-langs/?username=mpck4&langs_count=4&theme=light_github%22%20alt=%22Top%20Langs%22))](https://github.com/stats-organization/github-stats-extended)
 
 #### tools
 
