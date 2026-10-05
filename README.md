@@ -4,7 +4,7 @@ Cybersecurity - Cyber Operations @ Northeastern
 -->
 ```bash
 $ whoami
-Yo, I'm Charlie Kruger, a student at Northeastern University studying Cybersecurity with a Concentration in Cyber Operations
+Yo Im Charlie Kruger, a student at Northeastern University studying Cybersecurity with a Concentration in Cyber Operations
 $ cat ~/.focus
 - offensive security & red teaming
 - CTFs and other puzzles
