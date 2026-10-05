@@ -1,27 +1,27 @@
-## yo
-
-<!-- ```sh
+<!-- 
 $ whoami
-cybersecurity @ northeastern 29 - boston, ma
+Cybersecurity - Cyber Operations @ Northeastern 
+-->
+```bash
+$ whoami
+Yo, I'm Charlie Kruger, a student at Northeastern University studying Cybersecurity with a Concentration in Cyber Operations
 $ cat ~/.focus
-- offensive security & ctfs
-- web exploitation, linux internals
-- shipping small projects that mostly work
-``` -->
-
+- offensive security & red teaming
+- CTFs and other puzzles
+- shipping small/medium projects
+- currently learning more about AD exploitation
+```
 ---
 
-#### currently
+#### currently up to...
 
-- climbing [tryhackme](https://tryhackme.com/p/mpck4) — top 1% globally
-- logging [honAI](https://github.com/mpck4/HonAI) — ssh honeypot w/ ai triage
+- climbing [tryhackme](https://tryhackme.com/p/mpck4) — ranked top ~12K world, ~1500 USA
+- listening [honAI](https://github.com/mpck4/HonAI) — ssh cowrie honeypot w/ ai triage
 - tracking [hungryhusky](https://hungryhusky.vercel.app/) — dining dollar tracker for NEU
-- portfolio [charliekruger.dev](https://charliekruger.dev)
-- other stuff
+- and so on
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mpck4&layout=compact&theme=dark_github)
-
-*<sub>excluding private repos</sub>*
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mpck4&layout=compact&theme=dark_github)\
+*<sub>(excluding private repos)</sub>*
 
 #### tools
 
