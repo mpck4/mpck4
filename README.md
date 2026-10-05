@@ -11,7 +11,6 @@ $ cat ~/.focus
 - shipping small/medium projects
 - currently learning more about AD exploitation
 ```
----
 
 ## Find more about my projects at my portfolio: [charliekruger.dev](https://charliekruger.dev)
 
