@@ -19,7 +19,7 @@ $ cat ~/.focus
 - portfolio [charliekruger.dev](https://charliekruger.dev)
 - other stuff
 
-[![My Top Languages]((https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mpck4)](https://github.com/stats-organization/github-stats-extended)
 
 #### tools
 
