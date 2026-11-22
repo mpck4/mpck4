@@ -9,7 +9,7 @@ $ cat ~/.focus
 - offensive security & red teaming
 - CTFs and other puzzles
 - shipping small/medium projects
-- currently learning more about AD exploitation
+- currently learning more about AD exploitation & reverse engineering
 ```
 
 ## Find more about my projects and CTF writeups at my portfolio: [charliekruger.dev](https://charliekruger.dev)
